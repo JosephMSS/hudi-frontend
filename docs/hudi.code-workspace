@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../backend/hudi"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../next-course"
+		}
+	],
+	"settings": {}
+}
